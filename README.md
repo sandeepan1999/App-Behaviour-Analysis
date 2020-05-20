@@ -8,7 +8,6 @@ for the paid subscription plan.
 
 ## Analysis
 
-###  Correlation Matrix
 ![alt text](https://github.com/sandeepan1999/App-Behaviour-Analysis/blob/master/Correlation-matrix.png "Correlation Matrix")
 
 ### Confusion Matrix
